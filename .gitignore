@@ -130,6 +130,7 @@ dmypy.json
 
 # folder with pictures
 .20*
+.day_images/
 
 # exclude videos
 *.wmv

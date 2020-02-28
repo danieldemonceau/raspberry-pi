@@ -1,0 +1,13 @@
+
+
+
+- Create if not exists subfolder in the day folder with the name as the date YYYYMMDD
+
+- Name each picture after the time of the day YYYYMMDD-HHMMSS
+
+- Start just before sunrise (check online service to get that time)
+    - If the program starts after the timestamp, start the program anyway
+- End just after sunset (check online service to get that time)
+- Take a picture every 15 seconds
+- At the end of the day, group pictures together to create an animation
+- Start program at startup of raspberry pi
